@@ -1,12 +1,8 @@
 - 👋 Hi, I’m Christian Saldana
-- 👀 I’m interested in Full-stack development. My main stack is Django, React, Redux, and PostgreSQL. 
-- 🌱 I’m currently learning Node.js and MongoDB through the Web Development Bootcamp course by Udemy.
-- ✨ I am currently open to new opportunities.
+- 👀 I am a fullstack developer. My main stack is Node.js, React, Redux, and MySQL. 
 - 📫 How to reach me - 
       email: csaldanabanuelos@gmail.com, 
       number: (316)619-1936
-      
-Check out my portfolio: https://christiansaldana.herokuapp.com
 
 <!---
 ChristianSB24/ChristianSB24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
